@@ -1755,7 +1755,7 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = GoldShopApp(root)
     
-    # Uncomment the next line to generate sample data on first run
+    
     app.generate_sample_data()
     
     root.mainloop()
