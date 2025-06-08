@@ -10,7 +10,7 @@ import webbrowser
 class GoldShopApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Management System ❤️ Created by Qasim ❤️")
+        self.root.title("Management System ❤️ Created by Enzoha6ks ❤️")
         self.root.geometry("1100x750")
         
         # Setup database
@@ -445,7 +445,7 @@ class GoldShopApp:
     def show_about(self):
         """Show about dialog"""
         messagebox.showinfo("About", 
-                          "❤️ Created by Qasim ❤️ \n\n"
+                          "❤️ Created by  ❤️ \n\n"
                           "Version 1.0\n"
                           "© 2025 \n\n"
                           "Manage orders, inventory, and clients for gold shop business.")
