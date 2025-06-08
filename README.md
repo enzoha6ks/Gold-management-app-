@@ -1,7 +1,6 @@
 # Gold Shop Management System
 
-A desktop application built using Python and Tkinter to manage day-to-day operations of a gold shop. 
-This application includes modules for managing client orders, tracking gold inventory, generating invoices, and maintaining historical transaction reports — all stored securely in a local SQLite database.
+A desktop application built using Python and Tkinter to manage day-to-day operations of a gold shop. This application includes modules for managing client orders, tracking gold inventory, generating invoices, and maintaining historical transaction reports — all stored securely in a local SQLite database.
 
 ---
 
@@ -45,14 +44,6 @@ This application includes modules for managing client orders, tracking gold inve
 
 ---
 
-## 🖥️ Technologies Used
-
-- **Language:** Python 3.x
-- **GUI:** Tkinter (ttk-themed)
-- **Database:** SQLite (local, file-based)
-- **PDF Reports:** [FPDF](https://pyfpdf.readthedocs.io/en/latest/)
-
----
 
 ## 📦 Installation
 
